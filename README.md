@@ -40,7 +40,7 @@ Daily sentiment classification:
 
 ### 2. Historical Trader Data (Hyperliquid)
 
-⚠️ Note:  
+Note:  
 The historical trading dataset exceeds GitHub's file size limit and is therefore not uploaded in this repository.
 
 To reproduce the analysis:
