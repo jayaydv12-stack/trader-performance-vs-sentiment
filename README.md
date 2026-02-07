@@ -29,7 +29,8 @@ The goal is to:
 
 ## Dataset Information
 
-### 1. Fear & Greed Index
+### 1. Bitcoin Market Sentiment (Fear/Greed)
+
 Daily sentiment classification:
 - Extreme Fear
 - Fear
@@ -37,7 +38,7 @@ Daily sentiment classification:
 - Greed
 - Extreme Greed
 
-### 2. Hyperliquid Historical Trading Data
+### 2. Historical Trader Data (Hyperliquid)
 
 ⚠️ Note:  
 The historical trading dataset exceeds GitHub's file size limit and is therefore not uploaded in this repository.
